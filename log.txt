@@ -1,0 +1,14 @@
+мар. 15, 2023 4:14:57 PM HW2.Task2_1 BubbleSorting
+INFO: [2, 7, 33, 0, 5, 8]
+мар. 15, 2023 4:14:57 PM HW2.Task2_1 BubbleSorting
+INFO: [2, 7, 0, 33, 5, 8]
+мар. 15, 2023 4:14:57 PM HW2.Task2_1 BubbleSorting
+INFO: [2, 7, 0, 5, 33, 8]
+мар. 15, 2023 4:14:57 PM HW2.Task2_1 BubbleSorting
+INFO: [2, 7, 0, 5, 8, 33]
+мар. 15, 2023 4:14:57 PM HW2.Task2_1 BubbleSorting
+INFO: [2, 0, 7, 5, 8, 33]
+мар. 15, 2023 4:14:57 PM HW2.Task2_1 BubbleSorting
+INFO: [2, 0, 5, 7, 8, 33]
+мар. 15, 2023 4:14:57 PM HW2.Task2_1 BubbleSorting
+INFO: [0, 2, 5, 7, 8, 33]
